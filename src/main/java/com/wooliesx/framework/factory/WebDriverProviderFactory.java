@@ -34,11 +34,6 @@ public class WebDriverProviderFactory {
 
     public static void quitDriver() {
         if (driver != null) {
-            try {
-                Thread.sleep(5000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
             driver.close();
             driver.quit();
         }

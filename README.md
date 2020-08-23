@@ -19,6 +19,7 @@ This project is built and tested on Mac OS Catalina and IntelliJ Idea IDE
  * Cucumber 1.2.5
  * RestAssured 4.3.0
  * maven surefire plugin 2.22.2
+ * webdrivermanager - 4.1.0 (https://github.com/bonigarcia/webdrivermanager)
 
 ### Cloning the project 
 ```markdown
