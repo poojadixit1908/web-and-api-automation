@@ -13,8 +13,9 @@ This project solves the QA challenge for web and api testing.
 ### OS and IDE used
 This project is built and tested on Mac OS Catalina and IntelliJ Idea IDE
  
-### Dependencies 
+### Project Dependencies 
  * Java 8
+ * Maven 3.6.3
  * Selenium 3.141.59
  * Cucumber 1.2.5
  * RestAssured 4.3.0
@@ -23,7 +24,7 @@ This project is built and tested on Mac OS Catalina and IntelliJ Idea IDE
 
 ### Cloning the project 
 ```markdown
-https://github.com/poojadixit1908/wooliesx-qa-challenge
+git clone https://github.com/poojadixit1908/wooliesx-qa-challenge
 ```
 
 ### Compiling and running the project
