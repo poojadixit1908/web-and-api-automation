@@ -1,5 +1,5 @@
-# wooliesx-qa-challenge
-WooliesX QA Code Challenge
+# Web and API testing
+
 This project solves the QA challenge for web and api testing. 
 
 ### Frameworks and patterns used
@@ -24,7 +24,7 @@ This project is built and tested on Mac OS Catalina and IntelliJ Idea IDE
 
 ### Cloning the project 
 ```markdown
-git clone https://github.com/poojadixit1908/wooliesx-qa-challenge
+git clone https://github.com/poojadixit1908/web-and-api-automation
 ```
 
 ### Compiling and running the project
